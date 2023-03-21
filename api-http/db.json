@@ -184,6 +184,18 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Thomas",
+      "commentaire": "Cette ampoule éclaire très bien !",
+      "id": 21
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "Jean",
+      "commentaire": "Plaquettes usées",
+      "id": 22
     }
   ]
 }
